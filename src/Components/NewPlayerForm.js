@@ -1,16 +1,19 @@
 import React, { useState } from "react";
 
 export const NewPlayerForm = (props) => {
+  //sets all staes
   const [name, setName] = useState("");
   const [position, setPosition] = useState("");
   const [number, setNumber] = useState(undefined);
   const [playerId, setPlayerId] = useState(0);
 
+  //Handles the number input, makes sure its not a string but an int
   const handleNumberInput = (e) => {
     const int = parseInt(e.target.value, 10);
     setNumber(int >= 0 ? int : "");
   };
 
+  //this sets the state when the button is clicked
   const onSubmit = (e) => {
     e.preventDefault();
     if (name && position && number) {
@@ -25,6 +28,7 @@ export const NewPlayerForm = (props) => {
     }
   };
 
+  //html form that is rendered with the update function
   return (
     <div>
       <h4>Add a New Player to your Roster</h4>

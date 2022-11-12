@@ -1,6 +1,7 @@
 const TEAMS_ENDPOINT = "https://635178c7dfe45bbd55c11e18.mockapi.io/api/teams";
 
 class TeamsApi {
+  //Read method
   get = async () => {
     try {
       const resp = await fetch(TEAMS_ENDPOINT);
@@ -12,6 +13,7 @@ class TeamsApi {
   };
 
   put = async (team) => {
+    //Update method
     try {
       const resp = await fetch(`${TEAMS_ENDPOINT}/${team._id}`, {
         method: "PUT",
