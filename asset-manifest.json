@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sparkyack/Week15-Assignment.git/static/css/main.4bf061bc.css",
-    "main.js": "/Sparkyack/Week15-Assignment.git/static/js/main.5dffbbd1.js",
-    "static/js/787.0420ccf9.chunk.js": "/Sparkyack/Week15-Assignment.git/static/js/787.0420ccf9.chunk.js",
-    "index.html": "/Sparkyack/Week15-Assignment.git/index.html",
-    "main.4bf061bc.css.map": "/Sparkyack/Week15-Assignment.git/static/css/main.4bf061bc.css.map",
-    "main.5dffbbd1.js.map": "/Sparkyack/Week15-Assignment.git/static/js/main.5dffbbd1.js.map",
-    "787.0420ccf9.chunk.js.map": "/Sparkyack/Week15-Assignment.git/static/js/787.0420ccf9.chunk.js.map"
+    "main.css": "/Week15-Assignment/static/css/main.4bf061bc.css",
+    "main.js": "/Week15-Assignment/static/js/main.11f47639.js",
+    "static/js/787.0420ccf9.chunk.js": "/Week15-Assignment/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/Week15-Assignment/index.html",
+    "main.4bf061bc.css.map": "/Week15-Assignment/static/css/main.4bf061bc.css.map",
+    "main.11f47639.js.map": "/Week15-Assignment/static/js/main.11f47639.js.map",
+    "787.0420ccf9.chunk.js.map": "/Week15-Assignment/static/js/787.0420ccf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bf061bc.css",
-    "static/js/main.5dffbbd1.js"
+    "static/js/main.11f47639.js"
   ]
 }
