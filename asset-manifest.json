@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sparkyack/Week15-Assignment.git/static/css/main.4bf061bc.css",
+    "main.js": "/Sparkyack/Week15-Assignment.git/static/js/main.5dffbbd1.js",
+    "static/js/787.0420ccf9.chunk.js": "/Sparkyack/Week15-Assignment.git/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/Sparkyack/Week15-Assignment.git/index.html",
+    "main.4bf061bc.css.map": "/Sparkyack/Week15-Assignment.git/static/css/main.4bf061bc.css.map",
+    "main.5dffbbd1.js.map": "/Sparkyack/Week15-Assignment.git/static/js/main.5dffbbd1.js.map",
+    "787.0420ccf9.chunk.js.map": "/Sparkyack/Week15-Assignment.git/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bf061bc.css",
+    "static/js/main.5dffbbd1.js"
+  ]
+}
